@@ -1,5 +1,5 @@
 **Name**: Zack Koenig
 
-**Assignment Name**: Assignment 1A: Create Glitch Account and Page
+**Assignment Name**: Assignment 2A: Github
 
-**Date**: September 2, 2019
+**Date**: September 5, 2019
